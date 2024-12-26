@@ -1,0 +1,78 @@
+Habbo Club
+<span class="padding-top"><br></span><p><img src="https://swf.habbeh.net/gamedata/habbopages/comandos/BZwN4tI.png" vspace="0" align="left" hspace="10" style=" width: 100%; height: 100%; object-fit: contain; />  </p><span class="padding-bottom"><br></span>
+
+<span class="padding-top"><br></span><h1 style="color:#212131">Comandos disponibles</h1><span class="padding-bottom"><br></span>
+
+<p class="bullet-item">¶&nbsp;<b>:afk</b>&nbsp;Colocate ausente.</p>
+<p class="bullet-item">¶&nbsp;<b>:buscarfurni</b>&nbsp;Ve donde se encuentra un furni .</p>
+<p class="bullet-item">¶&nbsp;<b>:comprarsala</b>&nbsp;Compra una sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:chat (numero)</b>&nbsp;Cambia tu bubble.</p>
+<p class="bullet-item">¶&nbsp;<b>:rolldice</b>&nbsp;Escoge cuantos dados quieres activar.</p>
+<p class="bullet-item">¶&nbsp;<b>:closedice/cd</b>&nbsp;Cierra tus dados.</p>
+<p class="bullet-item">¶&nbsp;<b>:pl</b>&nbsp;Planta tu conteo de dados.</p>
+<p class="bullet-item">¶&nbsp;<b>:rr (usuario)</b>&nbsp;Restablece el conteo de alguien.</p>
+<p class="bullet-item">¶&nbsp;<b>:closeroom</b>&nbsp;Cerrar la sala actual.</p>
+<p class="bullet-item">¶&nbsp;<b>:openroom/or</b>&nbsp;Abrir la sala actual.</p>
+<p class="bullet-item">¶&nbsp;<b>:coords</b>&nbsp;Ve tus coordenadas.</p>
+<p class="bullet-item">¶&nbsp;<b>:diagonal</b>&nbsp;Deshabilita caminar en diagonal.</p>
+<p class="bullet-item">¶&nbsp;<b>:eventsoff</b>&nbsp;Habilita/Deshabilita las alertas de los eventos.</p>
+<p class="bullet-item">¶&nbsp;<b>:ejectall</b>&nbsp;Ejecuta los furnis de los demas.</p>
+<p class="bullet-item">¶&nbsp;<b>:empty </b>&nbsp;Borra tu inventario.</p>
+<p class="bullet-item">¶&nbsp;<b>:emptybots</b>&nbsp;Borra tu inventario de bots.</p>
+<p class="bullet-item">¶&nbsp;<b>:emptypets</b>&nbsp;Borra tu inventario de mascotas.</p>
+<p class="bullet-item">¶&nbsp;<b>:enable (numero)</b>&nbsp;Activa un efecto.</p>
+<p class="bullet-item">¶&nbsp;<b>:faceless</b>&nbsp;Quitate la cara.</p>
+<p class="bullet-item">¶&nbsp;<b>:fastwalk</b>&nbsp;Camina rapido.</p>
+<p class="bullet-item">¶&nbsp;<b>:freezebots</b>&nbsp;Congela los bots.</p>
+<p class="bullet-item">¶&nbsp;<b>:goto/ir (id)</b>&nbsp;Ir a una sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:handitem</b>&nbsp;Utiliza un objeto.</p>
+<p class="bullet-item">¶&nbsp;<b>:superwired</b>&nbsp;Ve las variables de los superwird.</p>
+<p class="bullet-item">¶&nbsp;<b>:hidewired</b>&nbsp;Ocultar los wired de la sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:lay</b>&nbsp;Haz que se acuestate tu usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:kickall (mensaje)</b>&nbsp;Kickea a todos y manda un mensaje en tu sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:mimic</b>&nbsp;Copia el look de un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:nota</b>&nbsp;Utiliza una nota temporal.</p>
+<p class="bullet-item">¶&nbsp;<b>:ons</b>&nbsp;Muestra una lista de los users activos.</p>
+<p class="bullet-item">¶&nbsp;<b>:pay (usuari) (cantidad) (tipo de moneda)</b>&nbsp;Paga a un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:petinfo</b>&nbsp;Informacion de una mascota.</p>
+<p class="bullet-item">¶&nbsp;<b>:roomiframe</b>&nbsp;Manda un iframe a la sala actual.</p>
+<p class="bullet-item">¶&nbsp;<b>:roomimage</b>&nbsp;Abre una imagen emergente en la sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:roomvideo</b>&nbsp;Abre una ventana emergente de video en la sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:vendersala(diamantes)</b>&nbsp;Vende tu sala actual.</p>
+<p class="bullet-item">¶&nbsp;<b>:transform</b>&nbsp;Conviertete en animal.</p>
+
+<span class="padding-top"><br></span><h1 style="color:#212131">Comandos de Construcción</h1><span class="padding-bottom"><br></span>
+<p class="bullet-item">¶&nbsp;<b>:builder</b>&nbsp;Teletransportate en tu sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:bc</b>&nbsp;¡Abre la Herramienta Baw!.</p>
+<p class="bullet-item">¶&nbsp;<b>:maxfloor</b>&nbsp;Establece el floor automatico de una sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:autofloor</b>&nbsp;Establece el floor máximo de una sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:buildheight/bh</b>&nbsp;Establece la altura de los furnis que vas a colocar.</p>
+<p class="bullet-item">¶&nbsp;<b>:ss</b>&nbsp;Establece el estado del furni.</p>
+<p class="bullet-item">¶&nbsp;<b>:rot</b>&nbsp;Establece la rotación de los furnis que vas a colocar.</p>
+<p class="bullet-item">¶&nbsp;<b>:noflooritem</b>&nbsp;Permite hacer floor donde hay furnis.</p>
+<p class="bullet-item">¶&nbsp;<b>:pickall</b>&nbsp;Recoge TODOS los furnis de una sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:pickallwired</b>&nbsp; Recoje TODOS los wired de tu sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:setspeed</b>&nbsp;Establece la velocidad de los rollers.</p>
+<p class="bullet-item">¶&nbsp;<b>:setmax</b>&nbsp;Establece los usuarios maximos de la sala.</p>
+<p class="bullet-item">¶&nbsp;<b>:reload</b>&nbsp;Recarga tu sala.</p>
+
+<span class="padding-top"><br></span><h1 style="color:#212131">Comandos Divertidos</h1><span class="padding-bottom"><br></span>
+
+
+<p class="bullet-item">¶&nbsp;<b>:sit</b>&nbsp;Toma asiento.</p>
+<p class="bullet-item">¶&nbsp;<b>:fumar</b>&nbsp;Enciende un porrito.</p>
+<p class="bullet-item">¶&nbsp;<b>:disparar/:paw</b>&nbsp;Dispara a un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:golpear</b>&nbsp;Golpea un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:llorar</b>&nbsp;Haz drama.</p>
+<p class="bullet-item">¶&nbsp;<b>:beber</b>&nbsp;Toma una bebida.</p>
+<p class="bullet-item">¶&nbsp;<b>:atraco</b>&nbsp;Haz un atraco.</p>
+<p class="bullet-item">¶&nbsp;<b>:comer</b>&nbsp;Come algo 
+<p class="bullet-item">¶&nbsp;<b>:morir</b>&nbsp;F.</p>
+<p class="bullet-item">¶&nbsp;<b>:desesperado</b>&nbsp;Explota de la desesperación.</p>
+<p class="bullet-item">¶&nbsp;<b>:moonwalk</b>&nbsp;Camina como Michael Jackson.</p>
+<p class="bullet-item">¶&nbsp;<b>:pull</b>&nbsp;Atrae un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:spull</b>&nbsp;Da un super jalon a un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:push</b>&nbsp;Empuja un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:spush</b>&nbsp;Da un super empujon a un usuario.</p>
+<p class="bullet-item">¶&nbsp;<b>:moonwalk</b>&nbsp;Camina como Michael Jackson.</p>
+
