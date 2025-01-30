@@ -3152,12 +3152,6 @@
         "revision": 62175
       },
       {
-        "id": "863",
-        "lib": "GmHabboin1",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
         "id": "864",
         "lib": "BotHabboIn",
         "type": "fx",
@@ -3166,66 +3160,6 @@
       {
         "id": "865",
         "lib": "LncHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "866",
-        "lib": "PblHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "867",
-        "lib": "IntHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "868",
-        "lib": "ModHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "869",
-        "lib": "CorHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "870",
-        "lib": "AdmHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "871",
-        "lib": "MngHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "872",
-        "lib": "EntHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "873",
-        "lib": "CeoHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "874",
-        "lib": "BawHabboIn",
-        "type": "fx",
-        "revision": 62175
-      },
-      {
-        "id": "875",
-        "lib": "DjsHabboIn",
         "type": "fx",
         "revision": 62175
       },
