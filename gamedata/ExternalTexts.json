@@ -14756,6 +14756,13 @@
   "help.button.Habboway.url": "https://Habbo.com/groups/172615/id",
   "help.button.Habboway": "Infórmate sobre cómo reportar un comportamiento inadecuado>>",
   "help.button.report.user": "Informar a l@s moderador@s sobre est@ usuari@",
+  
+  "help.cfh.reason.hacking": "Hacks en el juego",
+  "help.cfh.reason.account": "Sobre su cuenta",
+  "help.cfh.reason.badbehavior": "Mal comportamiento",
+  "help.cfh.reason.badwords": "Malas palabras",
+  "help.cfh.reason.cyber": "Bullying Cibernético",
+  
   "help.cfh.button.delete": "Borrar alerta anterior",
   "help.cfh.button.send": "Pedir ayuda",
   "help.cfh.closed.abusive": "¡Hey, tus llamadas de ayuda echan humo! Por favor, un poquito de paciencia para no saturar el sistema.",
