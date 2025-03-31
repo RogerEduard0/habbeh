@@ -4081,17 +4081,23 @@
         "type": "fx",
         "revision": 90000
       },
-	{
-        "id": "330033",
-        "lib": "fer_test",
-        "type": "fx",
-        "revision": 90000
-      },
-  {
+      {
         "id": "8888",
         "lib": "test1",
         "type": "fx",
-        "revision": 59220
+        "revision": 33000
+      },
+	    {
+        "id": "9999",
+        "lib": "test2",
+        "type": "fx",
+        "revision": 33000
+      },
+      {
+        "id": "7777",
+        "lib": "test3",
+        "type": "fx",
+        "revision": 33000
       }
     ]
   }
