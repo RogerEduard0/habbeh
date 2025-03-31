@@ -4086,6 +4086,12 @@
         "lib": "fer_test",
         "type": "fx",
         "revision": 90000
+      },
+  {
+        "id": "8888",
+        "lib": "test1",
+        "type": "fx",
+        "revision": 59220
       }
     ]
   }
