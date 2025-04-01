@@ -4098,6 +4098,12 @@
         "lib": "test3",
         "type": "fx",
         "revision": 33000
+      },
+      {
+        "id": "6666",
+        "lib": "test4",
+        "type": "fx",
+        "revision": 33000
       }
     ]
   }
