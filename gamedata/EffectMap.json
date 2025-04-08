@@ -3404,12 +3404,6 @@
         "revision": 413000
       },
       {
-        "id": "916",
-        "lib": "IPXST",
-        "type": "fx",
-        "revision": 413000
-      },
-      {
         "id": "917",
         "lib": "LifeGaugeNML1",
         "type": "fx",
@@ -3664,18 +3658,6 @@
       {
         "id": "963",
         "lib": "story",
-        "type": "fx",
-        "revision": 7
-      },
-      {
-        "id": "968",
-        "lib": "EnableError",
-        "type": "fx",
-        "revision": 7
-      },
-      {
-        "id": "969",
-        "lib": "EnableTest",
         "type": "fx",
         "revision": 7
       },
