@@ -12,14 +12,14 @@ for file_name in json_files:
             print(f"Error al leer {file_name}: {e}")
             continue
 
-    # Archivo compactado
+    # Archivo compactado (peso mínimo, sin espacios)
     compiled_name = file_name.replace('.json', '_compiled.json')
     with open(compiled_name, 'w', encoding='utf-8') as f:
-        json.dump(data, f, separators=(',', ':'))  # sin espacios
+        json.dump(data, f, separators=(',', ':'), ensure_ascii=False)
 
-    # Archivo embellecido
+    # Archivo embellecido (legible pero más compacto que lo normal)
     prettier_name = file_name.replace('.json', '_prettier.json')
     with open(prettier_name, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, separators=(',', ': '), ensure_ascii=False)  # con indentación bonita
+        json.dump(data, f, indent=2, separators=(',', ':'), ensure_ascii=False)
 
     print(f"Procesado: {file_name} → {compiled_name}, {prettier_name}")
