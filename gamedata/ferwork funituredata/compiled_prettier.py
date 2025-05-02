@@ -20,6 +20,6 @@ for file_name in json_files:
     # Archivo embellecido
     prettier_name = file_name.replace('.json', '_prettier.json')
     with open(prettier_name, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)  # con indentación bonita
+        json.dump(data, f, indent=2, separators=(',', ': '), ensure_ascii=False)  # con indentación bonita
 
     print(f"Procesado: {file_name} → {compiled_name}, {prettier_name}")
