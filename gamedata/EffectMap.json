@@ -6416,16 +6416,142 @@
       "revision": 7
   },
   {
-      "id": "2862",
-      "lib": "xp54-arma4",
-      "type": "fx",
-      "revision": 7
-  },
+    "id": "2862",
+    "lib": "xp54-arma4",
+    "type": "fx",
+    "revision": 7
+},
   {
       "id": "2863",
       "lib": "xp54-arma5",
       "type": "fx",
       "revision": 7
-  }
+  },
+  {
+    "id": "6600",
+    "lib": "fer_ADM",
+    "type": "fx",
+    "revision": 3311
+},
+{
+  "id": "6601",
+  "lib": "fer_ANM",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6602",
+  "lib": "fer_CANM",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6603",
+  "lib": "fer_CDIB",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6604",
+  "lib": "fer_CDIS",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6605",
+  "lib": "fer_CDJ",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6606",
+  "lib": "fer_CENT",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6607",
+  "lib": "fer_CINT",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6608",
+  "lib": "fer_CSEG",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6609",
+  "lib": "fer_CSPT",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6610",
+  "lib": "fer_DES",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6611",
+  "lib": "fer_DIB",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6612",
+  "lib": "fer_DIS",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6613",
+  "lib": "fer_DJ",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6614",
+  "lib": "fer_ENT",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6615",
+  "lib": "fer_GER",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6616",
+  "lib": "fer_HPR",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6617",
+  "lib": "fer_INT",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6618",
+  "lib": "fer_INV",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6619",
+  "lib": "fer_SEG",
+  "type": "fx",
+  "revision": 3311
+},
+{
+  "id": "6620",
+  "lib": "fer_SPT",
+  "type": "fx",
+  "revision": 3311
+}
     ]
   }
