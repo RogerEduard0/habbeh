@@ -12671,7 +12671,7 @@
   "widget.furni.present.keep_in_room": "Mantener en mi Sala",
   "widget.furni.present.instructions": "Este objeto podrás encontrarlo en 'Mis cosas'",
   "widget.furni.present.open": "Abrir el regalo",
-  "widget.furni.present.message_from": "- %name%,
+  "widget.furni.present.message_from": "- %name%",
   "widget.furni.present.message_opened": "¡Abre el regalo y encontrarás un/a %product%!",
   "widget.furni.present.open_gift": "Abrir este regalo",
   "widget.furni.present.place_in_room": "Colocar en mi Sala",
