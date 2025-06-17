@@ -12938,5 +12938,5 @@
   "wiredfurni.title": "Muebli cableado",
   "wiredfurni.params.rotatefurni": "Rotar Furni:",
   "wiredfurni.settings.saved": "Establecer un asentamiento",
-  "wiredfurni.pickfurnis.caption": "Elige Furni [%count%/%limit%]",
+  "wiredfurni.pickfurnis.caption": "Elige Furni [%count%/%limit%]"
 }
