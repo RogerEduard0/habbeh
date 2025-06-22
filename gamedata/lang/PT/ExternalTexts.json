@@ -5879,7 +5879,7 @@
   "messenger.title": "Bater papo",
   "messenger.window.button.report.tooltip": "Informar este usuário sobre moderadores",
   "messenger.window.button.report": "Relatório",
-  "messenger.window.input.default": "Clique para escrever para %FIRE_NAME %",
+  "messenger.window.input.default": "Clique aqui pra escrever para %FRIEND_NAME%", 
   "messenger.window.separator": "Você + %amigo_name %",
   "messenger.window.title": "Tus bate -papos abiertos (%open_chat_count%)",
   "mod.alert.link": "Mais informações >>",
