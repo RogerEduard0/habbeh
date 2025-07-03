@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pelea de Gallos</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .ads-container {
+      max-width: 1170px;
+      width: 95%;
+      margin: -25px auto 10px auto;
+      background-color: transparent;
+      box-sizing: border-box;
+    }
+
+    .event-box {
+      background-image: url('https://i.imgur.com/CT77lp4.png');
+      background-color: #126700;
+      background-repeat: no-repeat;
+      background-position: right;
+      width: 100%;
+      border-radius: 10px;
+      padding: 16px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 80px;
+      color: white;
+    }
+
+    .event-title {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 14px;
+      width: fit-content;
+      margin: 0;
+    }
+
+    .event-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .countdown {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+    }
+
+    .countdown-section {
+      margin-right: 10px;
+    }
+
+    .event-link {
+      color: white;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 7px 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 13px;
+      transition: background 0.3s;
+    }
+
+    .event-link:hover {
+      background: rgba(0, 0, 0, 0.9);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="ads-container">
+    <div class="event-box">
+      <p class="event-title"><b>¡PELEA DE GALLOS!</b></p>
+
+      <div class="event-footer">
+        <div id="countdown" class="countdown">
+          <span class="countdown-section"><span id="days">0</span> Días</span>
+          <span class="countdown-section"><span id="hours">0</span> Horas</span>
+          <span class="countdown-section"><span id="minutes">0</span> Minutos</span>
+          <span class="countdown-section"><span id="seconds">0</span> Segundos</span>
+        </div>
+
+        <a target="_blank" href="#" class="event-link">Leer más&nbsp;»</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const targetDate = new Date("2025-07-04T18:00:00-06:00");
+
+      function updateCountdown() {
+        const now = new Date().getTime();
+        const distance = targetDate.getTime() - now;
+
+        if (distance <= 0) {
+          document.getElementById("countdown").innerHTML = "¡El evento ha comenzado!";
+          return;
+        }
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        document.getElementById("days").textContent = days;
+        document.getElementById("hours").textContent = hours;
+        document.getElementById("minutes").textContent = minutes;
+        document.getElementById("seconds").textContent = seconds;
+      }
+
+      updateCountdown();
+      setInterval(updateCountdown, 1000);
+    });
+  </script>
+
+</body>
+</html>
